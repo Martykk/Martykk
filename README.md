@@ -1,20 +1,7 @@
-﻿# Welcome to my Github
-## About Me
-- **Name :** HUANG ZIH-SYUAN
-- **Graduate Student**
+### Hi 👋
 
-## Skill
-- **Programming Languages**
-    - Python
-    - Java
+Android engineer at BenQ. I believe simple code beats clever code.
 
-- **Tools**
-    - Git
-
-## Project
-
-
-## Contact Me
-- **Email**：huangzihsyuan0103@gmail.com
+📫 huangzihsyuan0103@gmail.com
 
 
